@@ -1,16 +1,28 @@
-## Hi there 👋
+# Priyadharshini K
 
-<!--
-**Priya-K1201/Priya-K1201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Electronics & Communication Engineering Undergraduate**
 
-Here are some ideas to get you started:
+### Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages:** C++ · Python · C  
+**Core:** Data Structures & Algorithms · OOP · Computer Networks  
+**AI/ML:** Supervised Learning · Classification · Feature Engineering · Model Evaluation  
+**Tools:** Git · GitHub · MATLAB · Jupyter Notebook · Google Colab · VS Code  
+**Engineering:** Verilog · FPGA · Raspberry Pi · IoT
+
+### Projects
+
+- **AI/ML-Based Intrusion Detection System for 5G Core Networks**
+- **Reaction Game — Verilog/FPGA**
+- **ECG Signal Classification**
+- **Fetal Health Risk Prediction**
+- **IoT Agriculture Monitoring System**
+- **Smart Antenna Beamforming**
+
+### Currently Learning
+
+Data Structures & Algorithms · C++ · Computer Science Fundamentals
+
+### Profiles
+
+[LinkedIn](https://www.linkedin.com/in/priya-k1201/) · [LeetCode](https://leetcode.com/u/priya-k1201/)
