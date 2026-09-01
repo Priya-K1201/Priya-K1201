@@ -12,7 +12,7 @@
 
 ### Projects
 
-- **AI/ML-Based Intrusion Detection System for 5G Core Networks**
+- **AI/ML-Based Intrusion Detection System for 5G Core Networks —** In Progress
 - **Reaction Game — Verilog/FPGA**
 - **ECG Signal Classification**
 - **Fetal Health Risk Prediction**
