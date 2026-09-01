@@ -4,7 +4,7 @@
 
 ### Technical Skills
 
-**Languages:** C++ · Python · C  
+**Languages:** C++ · Python · MATLAB  
 **Core:** Data Structures & Algorithms · OOP · Computer Networks  
 **AI/ML:** Supervised Learning · Classification · Feature Engineering · Model Evaluation  
 **Tools:** Git · GitHub · MATLAB · Jupyter Notebook · Google Colab · VS Code  
